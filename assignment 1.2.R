@@ -5,7 +5,8 @@
 v = c( 2,5.5,6)
 t =c(8, 3, 4)
 print(v%/%t)
-
+#answer
+0 1 1
 #2. You have 25 excel files with names as xx_1.xlsx, xx_2.xlsx,........xx_25.xlsx 
 #   in a dir.
 #   Write a program to extract the contents of each excel sheet and make it 
